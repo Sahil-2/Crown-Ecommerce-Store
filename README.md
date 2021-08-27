@@ -1,4 +1,4 @@
-# crown-clothing
+# Crown Ecommerce Store
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -7,10 +7,10 @@ E-commerce React App
 
 [Click here to visit the website](https://crown-clothing-react-project.herokuapp.com/)
 
-E-commerce application built using React, Redux, GraphQL, Firebase, Stripe & more. It is a Progressive Web App(PWA) with functionalities, such as
-* signup/login
-* shopping cart
-* checkout with payment
+◦Developed an E-commerce platform with features like Google Sign-In, shopping cart, checkout with payment
+◦ImplementedReact&Reduxfor front-end andFirebase&Node.jsfor back-end
+◦Utilized Firebase library for User Authentication,Cloud Firestorefor database andReact-router-domfor routing
+◦Created a server usingNode.jsandExpress.jsthat handles payments throughStripe payment gateway
 
 
 ### Home Page
@@ -25,10 +25,3 @@ E-commerce application built using React, Redux, GraphQL, Firebase, Stripe & mor
 ![stripe](https://github.com/G-Samarth/crown-clothing/blob/master/images/screenshot5.jpg)
 
 ![use](https://github.com/G-Samarth/crown-clothing/blob/master/images/record.gif)
-
-<!-- CONTACT -->
-## Contact
-
-SAMARTH GHULYANI
-
-LinkedIn Profile: [linkedin.com/in/samarth-ghulyani-5ab102168](https://in.linkedin.com/in/samarth-ghulyani-5ab102168)
