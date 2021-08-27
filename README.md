@@ -8,9 +8,9 @@ E-commerce React App
 [Click here to visit the website](https://crown-clothing-react-project.herokuapp.com/)
 
 ◦Developed an E-commerce platform with features like Google Sign-In, shopping cart, checkout with payment
-◦ImplementedReact&Reduxfor front-end andFirebase&Node.jsfor back-end
-◦Utilized Firebase library for User Authentication,Cloud Firestorefor database andReact-router-domfor routing
-◦Created a server usingNode.jsandExpress.jsthat handles payments throughStripe payment gateway
+◦Implemented React & Redux for front-end and Firebase & Node.js for back-end
+◦Utilized Firebase library for User Authentication, Cloud Firestore for database and React-router-dom for routing
+◦Created a server using Node.js and Express.js that handles payments through Stripe payment gateway
 
 
 ### Home Page
