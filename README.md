@@ -26,4 +26,4 @@ E-commerce React App
 ### Shopping Experience Overview
 ![use](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/record.gif)
 
-###Thanks for visiting.
+### Thanks for visiting.
