@@ -14,14 +14,14 @@ E-commerce React App
 
 
 ### Home Page
-![home](https://github.com/G-Samarth/crown-clothing/blob/master/images/screenshot1.jpg)
+![home](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot1.jpg)
 ### Shop Page
-![shop](https://github.com/G-Samarth/crown-clothing/blob/master/images/screenshot2.jpg)
+![shop](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot2.jpg)
 ### Signup/Login Page
-![signup/login](https://github.com/G-Samarth/crown-clothing/blob/master/images/screenshot3.jpg)
+![signup/login](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot2.jpg)
 ### Checkout Page
-![cart](https://github.com/G-Samarth/crown-clothing/blob/master/images/screenshot4.jpg)
+![cart](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot4.jpg)
 ### Stripe Payment
-![stripe](https://github.com/G-Samarth/crown-clothing/blob/master/images/screenshot5.jpg)
+![stripe](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot5.jpg)
 
-![use](https://github.com/G-Samarth/crown-clothing/blob/master/images/record.gif)
+![use](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/record.gif)
