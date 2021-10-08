@@ -18,7 +18,7 @@ E-commerce React App
 ### Shop Page
 ![shop](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot2.jpg)
 ### Signup/Login Page
-![signup/login](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot2.jpg)
+![signup/login](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot3.jpg)
 ### Checkout Page
 ![cart](https://github.com/Sahil-2/Crown-Ecommerce-Store/blob/main/images/screenshot4.jpg)
 ### Stripe Payment Gateway
